@@ -1,0 +1,11 @@
+{
+  "rules": {
+    "Documents": [".pdf", ".docx", ".doc", ".txt", ".pptx", ".xlsx", ".csv", ".odt"],
+    "Images":    [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".svg", ".webp", ".ico"],
+    "Videos":    [".mp4", ".mkv", ".avi", ".mov", ".wmv", ".flv", ".webm"],
+    "Audio":     [".mp3", ".wav", ".aac", ".flac", ".ogg", ".m4a"],
+    "Code":      [".py", ".js", ".ts", ".html", ".css", ".java", ".cpp", ".c", ".json", ".yaml", ".yml", ".sh", ".ipynb"],
+    "Archives":  [".zip", ".tar", ".gz", ".rar", ".7z", ".bz2"],
+    "Executables": [".exe", ".msi", ".dmg", ".apk", ".deb", ".rpm"]
+  }
+}

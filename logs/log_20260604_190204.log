@@ -1,0 +1,37 @@
+2026-06-04 19:02:04,663 INFO  Start organizing folder: C:\Users\yashv\Downloads
+2026-06-04 19:02:04,663 INFO  =======================================================
+2026-06-04 19:02:04,665 INFO  moved:C:\Users\yashv\Downloads\AdmitCard-263511621825.pdf --> C:\Users\yashv\Downloads\Documents\AdmitCard-263511621825.pdf
+2026-06-04 19:02:04,676 INFO  moved:C:\Users\yashv\Downloads\ai_freelance_roadmap_18_weeks.html --> C:\Users\yashv\Downloads\Others\ai_freelance_roadmap_18_weeks.html
+2026-06-04 19:02:04,679 INFO  moved:C:\Users\yashv\Downloads\analyzer_py.py --> C:\Users\yashv\Downloads\Others\analyzer_py.py
+2026-06-04 19:02:04,682 INFO  moved:C:\Users\yashv\Downloads\archive --> C:\Users\yashv\Downloads\Others\archive
+2026-06-04 19:02:04,690 INFO  moved:C:\Users\yashv\Downloads\archive.zip --> C:\Users\yashv\Downloads\Others\archive.zip
+2026-06-04 19:02:04,695 INFO  moved:C:\Users\yashv\Downloads\ChromeSetup.exe --> C:\Users\yashv\Downloads\Others\ChromeSetup.exe
+2026-06-04 19:02:04,700 INFO  moved:C:\Users\yashv\Downloads\ConfirmationPage-263511621825.pdf --> C:\Users\yashv\Downloads\Documents\ConfirmationPage-263511621825.pdf
+2026-06-04 19:02:04,710 INFO  moved:C:\Users\yashv\Downloads\Data Structure and algorithms using Java.jfif --> C:\Users\yashv\Downloads\Others\Data Structure and algorithms using Java.jfif
+2026-06-04 19:02:04,716 INFO  moved:C:\Users\yashv\Downloads\desktop.ini --> C:\Users\yashv\Downloads\Others\desktop.ini
+2026-06-04 19:02:04,744 INFO  moved:C:\Users\yashv\Downloads\Docker Desktop Installer (1).exe --> C:\Users\yashv\Downloads\Others\Docker Desktop Installer (1).exe
+2026-06-04 19:02:04,749 INFO  moved:C:\Users\yashv\Downloads\Docker Desktop Installer.exe --> C:\Users\yashv\Downloads\Others\Docker Desktop Installer.exe
+2026-06-04 19:02:04,758 INFO  moved:C:\Users\yashv\Downloads\English Language for Competitive Exams.jfif --> C:\Users\yashv\Downloads\Others\English Language for Competitive Exams.jfif
+2026-06-04 19:02:04,758 INFO  moved:C:\Users\yashv\Downloads\Entrepreneurship (1).pdf --> C:\Users\yashv\Downloads\Documents\Entrepreneurship (1).pdf
+2026-06-04 19:02:04,772 INFO  moved:C:\Users\yashv\Downloads\Entrepreneurship.pdf --> C:\Users\yashv\Downloads\Documents\Entrepreneurship.pdf
+2026-06-04 19:02:04,778 INFO  moved:C:\Users\yashv\Downloads\first_blog_post.md --> C:\Users\yashv\Downloads\Others\first_blog_post.md
+2026-06-04 19:02:04,780 INFO  moved:C:\Users\yashv\Downloads\organiser.py --> C:\Users\yashv\Downloads\Others\organiser.py
+2026-06-04 19:02:04,780 INFO  moved:C:\Users\yashv\Downloads\Outlier_Test_Preparation_Guide.pdf --> C:\Users\yashv\Downloads\Documents\Outlier_Test_Preparation_Guide.pdf
+2026-06-04 19:02:04,795 INFO  moved:C:\Users\yashv\Downloads\Project_Guide_Yashvi_and_Friend.pdf --> C:\Users\yashv\Downloads\Documents\Project_Guide_Yashvi_and_Friend.pdf
+2026-06-04 19:02:04,799 INFO  moved:C:\Users\yashv\Downloads\python-3.12.10-amd64.exe --> C:\Users\yashv\Downloads\Others\python-3.12.10-amd64.exe
+2026-06-04 19:02:04,804 INFO  moved:C:\Users\yashv\Downloads\python-3.14.5-amd64.exe --> C:\Users\yashv\Downloads\Others\python-3.14.5-amd64.exe
+2026-06-04 19:02:04,804 INFO  moved:C:\Users\yashv\Downloads\UltraViewer_setup_6.6.124_en (1).exe --> C:\Users\yashv\Downloads\Others\UltraViewer_setup_6.6.124_en (1).exe
+2026-06-04 19:02:04,804 INFO  moved:C:\Users\yashv\Downloads\UltraViewer_setup_6.6.124_en (2).exe --> C:\Users\yashv\Downloads\Others\UltraViewer_setup_6.6.124_en (2).exe
+2026-06-04 19:02:04,804 INFO  moved:C:\Users\yashv\Downloads\UltraViewer_setup_6.6.124_en.exe --> C:\Users\yashv\Downloads\Others\UltraViewer_setup_6.6.124_en.exe
+2026-06-04 19:02:04,824 INFO  moved:C:\Users\yashv\Downloads\VSCodeUserSetup-x64-1.121.0.exe --> C:\Users\yashv\Downloads\Others\VSCodeUserSetup-x64-1.121.0.exe
+2026-06-04 19:02:04,824 INFO  moved:C:\Users\yashv\Downloads\WhatsApp Image 2026-04-23 at 09.18.08.jpeg --> C:\Users\yashv\Downloads\Others\WhatsApp Image 2026-04-23 at 09.18.08.jpeg
+2026-06-04 19:02:04,824 INFO  moved:C:\Users\yashv\Downloads\WhatsApp Image 2026-04-23 at 09.21.11.jpeg --> C:\Users\yashv\Downloads\Others\WhatsApp Image 2026-04-23 at 09.21.11.jpeg
+2026-06-04 19:02:04,841 INFO  moved:C:\Users\yashv\Downloads\wsl_update_x64.msi --> C:\Users\yashv\Downloads\Others\wsl_update_x64.msi
+2026-06-04 19:02:04,844 INFO  moved:C:\Users\yashv\Downloads\Yashvi Rexwal - Intro to Machine Learning.png --> C:\Users\yashv\Downloads\Others\Yashvi Rexwal - Intro to Machine Learning.png
+2026-06-04 19:02:04,846 INFO  moved:C:\Users\yashv\Downloads\Yashvi Rexwal - Python (1).png --> C:\Users\yashv\Downloads\Others\Yashvi Rexwal - Python (1).png
+2026-06-04 19:02:04,846 INFO  moved:C:\Users\yashv\Downloads\Yashvi Rexwal - Python.png --> C:\Users\yashv\Downloads\Others\Yashvi Rexwal - Python.png
+2026-06-04 19:02:04,862 INFO  moved:C:\Users\yashv\Downloads\Yashvi_Rexwal_Resume.docx --> C:\Users\yashv\Downloads\Documents\Yashvi_Rexwal_Resume.docx
+2026-06-04 19:02:04,867 INFO  moved:C:\Users\yashv\Downloads\Yashvi_Rexwal_Resume.pdf --> C:\Users\yashv\Downloads\Documents\Yashvi_Rexwal_Resume.pdf
+2026-06-04 19:02:04,875 INFO  =======================================================
+2026-06-04 19:02:04,876 INFO  Done moved: 32 | skipped:0
+2026-06-04 19:02:04,877 INFO  log saved to: c:\Users\yashv\Desktop\CLI tool project\logs\log_20260604_190204.log
