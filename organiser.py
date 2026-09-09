@@ -73,6 +73,8 @@ def organize_folder(target_path:str)->None:
             #logger.info(f"Skip hidden folder: {item}")
             skipped+=1
             continue
+        if os.path.isdir(items):
+            continue  # This skips "Others", "Documents", and ALL folders!
 
         extension=items.suffix
 
@@ -107,7 +109,7 @@ if __name__=="__main__":
         print(f"no path is given,Using default path: {downloads}")
         organize_folder(str(downloads))
     else:
-            oraganise_folder(sys.argv[1])
+            organize_folder(sys.argv[1])
 
 
     
